@@ -1,0 +1,52 @@
+.PagesMain{
+    padding-top: 70px;
+    max-width: 1330px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+}
+.PagesMain h1{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #222D39;
+    text-align: center;
+}
+.PagesItems{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 30px;
+
+}
+.PagesItem{
+    width: 645px;
+    height: 249px;
+    padding: 42px 120px;
+    background-color: #F7F9FC;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.PagesItem h3{
+    font-size: 1.4rem;
+    color: #222D39;
+    font-weight: 600;
+}
+.PagesItem p{
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 28px;
+    color: #8492A7;
+}
+.PagesItem h4{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #222D39;
+}
+.PagesItem h4.aTag a{
+    text-decoration: solid;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.continer{
+    max-width: 1320px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+body{
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
