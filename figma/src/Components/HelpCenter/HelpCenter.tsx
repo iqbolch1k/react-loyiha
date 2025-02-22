@@ -1,4 +1,4 @@
-import PagesMain from '../../Pages/Pages-main/PagesMain'
+import PagesMain from '../Pages-main/PagesMain'
 import Footer from '../Footer/Footer'
 import Header_pages from '../Header-pages/Header_pages'
 import Header from '../Header/Header'
@@ -16,7 +16,6 @@ function HelpCenter() {
             </div>
             <PagesMain />
             <Footer />
-
         </div>
     )
 }

@@ -37,7 +37,7 @@
     font-weight: 500;
     color: #222D39;
 }
-.header .header-navbar ul li a.active-nav{
+.header .header-navbar ul li a.active-link{
     color: #008AFF;
 }
 .header .header-navbar button{
